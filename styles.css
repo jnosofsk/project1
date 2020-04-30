@@ -97,14 +97,14 @@ a.antioxidants:link, a.antioxidants:visited {
 h1.ingredients {
     color: white!important;
     text-align:center;
-    font-size; 80px;
+    font-size: 40px;
     font-family: 'Lexend Exa';
 }
 
 h2.lemon {
     color:orange!important;
     text-align:center;
-    font-size; 80px;
+    font-size: 32px;
     font-family: 'Lexend Exa';
     display:inline-block;
     
@@ -113,7 +113,7 @@ h2.lemon {
 h2.lime {
     color: yellowgreen!important;
     text-align:center;
-    font-size; 80px;
+    font-size: 32px;
     font-family: 'Lexend Exa';
     display:inline-block;
     
@@ -130,5 +130,15 @@ h2.lime {
     font-family:'Lexend Exa';
 }
 
+/* About Us */
 
-
+.carousel-inner {
+    height:400px;
+}
+.about {
+     font-size: 24px;
+     color:#ff005d;
+     margin-left: auto;
+     margin-right: auto;
+     text-align:center;
+ }
